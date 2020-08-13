@@ -16,7 +16,6 @@
         <link rel="stylesheet" type="text/css" href="style/style.css">
         <link rel="shortcut icon" type="image/png" href="style/img/favicon.png">
         <title>M. K. | Kontakt</title>
-        
     </head>
     <body>
         
@@ -55,7 +54,7 @@
                         <input type="text" name="temat" placeholder="Temat"><br>
                         <textarea placeholder="Twoja wiadomość ..." name="tresc" pattern=".{2,}" required></textarea><br>
                         <button type="reset">Wyczyść &#10007;</button> <button type="submit">Wyślij &#10003;</button>
-                        </form>
+                    </form>
                     <span>
                     <?php
                         echo $_SESSION['error'];
