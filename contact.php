@@ -23,21 +23,7 @@
   <body>
     <div id="main">
 
-      <div id="top">
-
-        <div class="logo">
-          <p>Michał Knapczyk</p>
-        </div>
-
-        <div class="panel">
-          <ul>
-            <a href="index.html"><li>O mnie</li></a>
-            <a href="projects.html"><li>Projekty</li></a>
-            <a href="contact.php"><li>Kontakt</li></a>
-          </ul>
-        </div>
-
-      </div>
+    <?php include "./header.html" ?>
 
       <div id="content">
 
@@ -83,10 +69,7 @@
 
       </div>
 
-      <footer>
-        <p><a href="#main">Powrót do góry strony</a></p>
-        <p>&copy; 2020</p>
-      </footer>
+      <?php include "./footer.html" ?>
 
     </div>
   </body>
