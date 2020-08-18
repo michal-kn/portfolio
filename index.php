@@ -23,7 +23,7 @@
             informatykę w Wyższej Szkole Zarządzania i Bankowości w Krakowie. W
             technikum poznałem podstawy programowania, które teraz rozwijam.
             Uczyłem się między innymi tworzenia stron internetowych w HTML z
-            wykorzystaniem CSS oraz JavaScript oraz poznałem podstawy 
+            wykorzystaniem CSS oraz JavaScript (TypeScript) oraz poznałem podstawy 
             implementacji kodu php, łączenia go z bazą danych z
             wykorzystaniem MySQL.
           </p>

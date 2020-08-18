@@ -39,7 +39,7 @@
             <a
               href="https://github.com/michal-kn/JavaScript"
               target="_blank"
-              >Przykładowy kod JavaScript</a
+              >Przykładowy kod JavaScript / TypeScript</a
             >
           </div>
         </div>
