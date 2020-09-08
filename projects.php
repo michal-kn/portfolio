@@ -37,9 +37,9 @@
         <div class="right">
           <div class="description">
             <a
-              href="https://github.com/michal-kn/JavaScript"
+              href="https://github.com/michal-kn/reactShop"
               target="_blank"
-              >Przykładowy kod JavaScript / TypeScript</a
+              >Sklep internetowy zbudowany przy użyciu React oraz SCSS</a
             >
           </div>
         </div>
